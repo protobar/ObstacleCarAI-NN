@@ -94,7 +94,7 @@ Prerequisites
 •	Minimum: 4GB RAM, modern GPU
 Step-by-Step Setup
 1.	Clone the repository
-git clone https://github.com/yourusername/ai-car-training.git
+git clone https://github.com/protobar/ObstacleCarAI-NN
 cd ai-car-training
 2.	Open in Unity
 o	Open Unity Hub
